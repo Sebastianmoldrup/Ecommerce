@@ -6,7 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Make sure to run `npm i` so you can install all the node packet managers im using.
 
+
 Then 
+
 
 ### `npm start`
 
