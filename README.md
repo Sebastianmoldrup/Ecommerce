@@ -4,13 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm i`
 
-Make sure to run `npm i` so you can install all the node packet managers im using.
-
-
-Then 
+Make sure to run `npm i` so you get all the necessary NPM's.
 
 
 ### `npm start`
 
-To run the project `npm start`, it will redirect you to the browser (http://localhost:3000).
+Then to run the project `npm start`, it will redirect you to the browser at (http://localhost:3000).
 
